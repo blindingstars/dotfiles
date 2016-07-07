@@ -1,0 +1,1 @@
+/Users/stephy/.zsh-antigen/themes/nautilus.zsh-theme
