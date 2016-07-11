@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"CJSX Syntax",
+		"ColorHelper",
+		"ColorPicker",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Gutter Color",
+		"Javascript Beautify",
+		"Modific",
+		"Oceanic Next Color Scheme",
+		"Package Control",
+		"Sass",
+		"SassBeautify",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SyncedSideBar",
+		"Syntax Highlighting for Sass",
+		"Theme - Spacegray"
+	]
+}

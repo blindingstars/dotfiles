@@ -1,0 +1,28 @@
+{
+	"always_show_minimap_viewport": true,
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Ocean.tmTheme",
+	"rulers":
+	[
+		80,
+		120
+	],
+	"theme": "Boxy Ocean.sublime-theme",
+	"theme_accent_cyan": true,
+	"theme_dirty_materialized": true,
+	"theme_dropdown_materialized": true,
+	"theme_find_panel_close_hidden": true,
+	"theme_find_panel_materialized": true,
+	"theme_grid_border_size_lg": true,
+	"theme_icons_materialized": true,
+	"theme_panel_switcher_materialized": true,
+	"theme_scrollbar_rounded": true,
+	"theme_sidebar_folder_materialized": true,
+	"theme_sidebar_heading_bold": true,
+	"theme_sidebar_indent_top_level_disabled": true,
+	"theme_sidebar_size_xs": true,
+	"theme_size_md": true,
+	"theme_tab_arrows_hidden": true,
+	"theme_tab_rounded": true,
+	"theme_tab_selected_transparent": true,
+	"theme_tab_selected_underlined": true
+}
