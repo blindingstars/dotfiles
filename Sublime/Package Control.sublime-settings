@@ -22,7 +22,10 @@
 		"Sass",
 		"SassBeautify",
 		"SideBarEnhancements",
+		"StandardFormat",
 		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-contrib-standard",
 		"SyncedSideBar",
 		"Syntax Highlighting for Sass",
 		"Theme - Spacegray"

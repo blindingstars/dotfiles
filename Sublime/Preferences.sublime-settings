@@ -1,6 +1,12 @@
 {
 	"always_show_minimap_viewport": true,
-	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Ocean.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Oceanic Next (SL).tmTheme",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"StandardFormat",
+		"Vintage"
+	],
 	"rulers":
 	[
 		80,
