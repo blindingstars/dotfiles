@@ -14,10 +14,13 @@
 	],
 	"theme": "Boxy Ocean.sublime-theme",
 	"theme_accent_cyan": true,
+	"theme_dirty_accent_blue": true,
+	"theme_dirty_colored_always": true,
 	"theme_dirty_materialized": true,
 	"theme_dropdown_materialized": true,
 	"theme_find_panel_close_hidden": true,
 	"theme_find_panel_materialized": true,
+	"theme_find_panel_padding_sm": true,
 	"theme_grid_border_size_lg": true,
 	"theme_icons_materialized": true,
 	"theme_panel_switcher_materialized": true,
@@ -28,7 +31,10 @@
 	"theme_sidebar_size_xs": true,
 	"theme_size_md": true,
 	"theme_tab_arrows_hidden": true,
+	"theme_tab_font_xs": true,
+	"theme_tab_line_size_sm": true,
 	"theme_tab_rounded": true,
 	"theme_tab_selected_transparent": true,
-	"theme_tab_selected_underlined": true
+	"theme_tab_selected_underlined": true,
+	"theme_tab_size_xs": true
 }
