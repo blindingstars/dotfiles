@@ -9,6 +9,7 @@ typeset -A host_repr
 # This is the HOSTS dictionary. Add new entries following this format:
 #           'real-name' "Name To Display"
 host_repr=( 'Hummingbird.local' "Hummingbird"
+            'Hummingbird.attlocal.net' "Hummingbird"
             )
 
 typeset -A user_repr

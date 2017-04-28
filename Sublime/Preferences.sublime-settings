@@ -1,7 +1,9 @@
 {
-	"always_show_minimap_viewport": true,
+	"always_show_minimap_viewport": false,
 	"color_scheme": "Packages/User/SublimeLinter/Oceanic Next (SL).tmTheme",
+	"ensure_newline_at_eof_on_save": true,
 	"font_size": 13,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"StandardFormat",
@@ -12,6 +14,7 @@
 		80,
 		120
 	],
+	"tab_size": 2,
 	"theme": "Boxy Ocean.sublime-theme",
 	"theme_accent_cyan": true,
 	"theme_dirty_accent_blue": true,
@@ -35,5 +38,6 @@
 	"theme_tab_rounded": true,
 	"theme_tab_selected_transparent": true,
 	"theme_tab_selected_underlined": true,
-	"theme_tab_size_xs": true
+	"theme_tab_size_xs": true,
+	"translate_tabs_to_spaces": true
 }
