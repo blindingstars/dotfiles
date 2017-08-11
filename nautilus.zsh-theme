@@ -10,6 +10,9 @@ typeset -A host_repr
 #           'real-name' "Name To Display"
 host_repr=( 'Hummingbird.local' "Hummingbird"
             'Hummingbird.attlocal.net' "Hummingbird"
+            'Heron.local' "Heron"
+            'Heron.attlocal.net' "Heron"
+            'Stephys-MBP.attlocal.net' "Heron"
             )
 
 typeset -A user_repr
