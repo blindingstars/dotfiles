@@ -4,12 +4,23 @@ My personal collection of dotfiles and system settings to make setup easy on ano
 
 ## Getting Started
 
-Install ohmyzsh
-Install zsh-antigen
-
-## Symlinks
-
 Symlink dotfiles into home directory
+
+`/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+
+`sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
+
+`curl -L git.io/antigen > antigen.zsh`
+
+`brew install node`
+
+`npm install -g n`
+
+`brew install the_silver_searcher`
+
+`git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim`
+
+`vim +PluginInstall +qall`
 
 ## Link Sublime
 
