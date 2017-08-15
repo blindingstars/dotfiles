@@ -22,9 +22,11 @@ Symlink dotfiles into home directory
 
 `vim +PluginInstall +qall`
 
-## Link Sublime
+## Sublime
 
 `ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl`
+
+Emmet keybindings for JSX: [wesbos/tab-trigger.js](https://gist.github.com/wesbos/2bb4a6998635df97c748)
 
 ## iTerm
 
