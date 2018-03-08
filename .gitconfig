@@ -85,7 +85,7 @@
 	insteadOf = "gist:"
 
 [push]
-	default = matching
+	default = current
 [filter "lfs"]
 	required = true
 	clean = git-lfs clean %f

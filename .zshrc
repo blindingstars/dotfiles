@@ -18,8 +18,9 @@ antigen theme $ZSHA_BASE/themes nautilus
 
 antigen apply
 
-export PATH=$HOME/bin:/bin:/sbin:/usr/bin:/usr/local/sbin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:$PATH
+export PATH=$HOME/bin:/bin:/sbin:/usr/bin:/usr/local/sbin:/usr/local/bin:/opt/local/bin:/opt/local/sbin:$PATH:$HOME/Dev/platform-tools
 export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
+export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin" # Add VS Code shortcuts
 export EDITOR=vim
 
 if [ -d $HOME/.rbenv ]; then
@@ -33,3 +34,6 @@ if [ -f /opt/homebrew/bin/src-hilite-lesspipe.sh ]; then
 export LESSOPEN="| /opt/homebrew/bin/src-hilite-lesspipe.sh %s"
 export LESS=' -R '
 fi
+
+# added by travis gem
+[ -f /Users/stephy/.travis/travis.sh ] && source /Users/stephy/.travis/travis.sh

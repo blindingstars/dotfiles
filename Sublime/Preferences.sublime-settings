@@ -6,7 +6,9 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"Gutter Color",
 		"StandardFormat",
+		"SublimeLinter-eslint",
 		"Vintage"
 	],
 	"rulers":

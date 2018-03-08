@@ -14,7 +14,7 @@
 		"Emmet",
 		"Git",
 		"GitGutter",
-		"Gutter Color",
+		"HTML-CSS-JS Prettify",
 		"Javascript Beautify",
 		"Modific",
 		"Oceanic Next Color Scheme",
@@ -26,8 +26,8 @@
 		"SublimeLinter",
 		"SublimeLinter-annotations",
 		"SublimeLinter-contrib-standard",
+		"SublimeLinter-eslint",
 		"SyncedSideBar",
-		"Syntax Highlighting for Sass",
 		"Theme - Spacegray"
 	]
 }
