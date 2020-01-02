@@ -1,6 +1,7 @@
-ZSHA_BASE=$HOME/.zsh-antigen
-source $ZSHA_BASE/antigen/antigen.zsh
+ADOTDIR=$HOME/.zsh-antigen
+source $ADOTDIR/antigen/antigen.zsh
 source ~/.zprofile
+export NVM_LAZY_LOAD=true
 
 antigen use oh-my-zsh
 
@@ -13,8 +14,9 @@ antigen bundle b4b4r07/emoji-cli
 antigen bundle chrissicool/zsh-256color
 antigen bundle zsh-users/zsh-history-substring-search
 antigen bundle zsh-users/zsh-syntax-highlighting
+antigen bundle lukechilds/zsh-nvm
 
-antigen theme $ZSHA_BASE/themes nautilus
+antigen theme $ADOTDIR/themes nautilus
 
 antigen apply
 
@@ -37,3 +39,5 @@ fi
 
 # added by travis gem
 [ -f /Users/stephy/.travis/travis.sh ] && source /Users/stephy/.travis/travis.sh
+
+export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
